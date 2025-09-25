@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis saveDateTime="2025-09-25T13:56:15" projectname="" version="3.34.12-Prizren" saveUser="m.rahman" saveUserFull="Arif Rahman">
+<qgis saveDateTime="2025-09-25T16:17:21" projectname="" version="3.34.12-Prizren" saveUser="m.rahman" saveUserFull="Arif Rahman">
   <homePath path=""/>
   <title></title>
   <transaction mode="Disabled"/>
@@ -964,12 +964,6 @@ def my_form_open(dialog, layer, feature):
     <WMSContactPhone type="QString">+61406155493</WMSContactPhone>
     <WMSContactPosition type="QString">Analyst Programmer</WMSContactPosition>
     <WMSDefaultMapUnitsPerMm type="double">1</WMSDefaultMapUnitsPerMm>
-    <WMSExtent type="QStringList">
-      <value>3.53141014500000017</value>
-      <value>50.2528455890000032</value>
-      <value>4.78543003199999983</value>
-      <value>54.02122272900000155</value>
-    </WMSExtent>
     <WMSFeatureInfoUseAttributeFormSettings type="bool">false</WMSFeatureInfoUseAttributeFormSettings>
     <WMSFees type="QString">conditions unknown</WMSFees>
     <WMSImageQuality type="int">90</WMSImageQuality>
@@ -1048,7 +1042,7 @@ def my_form_open(dialog, layer, feature):
   <Sensors/>
   <ProjectViewSettings UseProjectScales="0" rotation="0">
     <Scales/>
-    <DefaultViewExtent xmin="3.531410145145359" ymax="54.02122272931611491" ymin="50.2528455888741874" xmax="4.78543003178026627">
+    <DefaultViewExtent xmin="3.531410145145359" ymax="53.8847511272673998" ymin="50.38931719092290251" xmax="4.78543003178026627">
       <spatialrefsys nativeFormat="Wkt">
         <wkt>GEOGCRS["WGS 84",ENSEMBLE["World Geodetic System 1984 ensemble",MEMBER["World Geodetic System 1984 (Transit)"],MEMBER["World Geodetic System 1984 (G730)"],MEMBER["World Geodetic System 1984 (G873)"],MEMBER["World Geodetic System 1984 (G1150)"],MEMBER["World Geodetic System 1984 (G1674)"],MEMBER["World Geodetic System 1984 (G1762)"],MEMBER["World Geodetic System 1984 (G2139)"],MEMBER["World Geodetic System 1984 (G2296)"],ELLIPSOID["WGS 84",6378137,298.257223563,LENGTHUNIT["metre",1]],ENSEMBLEACCURACY[2.0]],PRIMEM["Greenwich",0,ANGLEUNIT["degree",0.0174532925199433]],CS[ellipsoidal,2],AXIS["geodetic latitude (Lat)",north,ORDER[1],ANGLEUNIT["degree",0.0174532925199433]],AXIS["geodetic longitude (Lon)",east,ORDER[2],ANGLEUNIT["degree",0.0174532925199433]],USAGE[SCOPE["Horizontal component of 3D system."],AREA["World."],BBOX[-90,-180,90,180]],ID["EPSG",4326]]</wkt>
         <proj4>+proj=longlat +datum=WGS84 +no_defs</proj4>
